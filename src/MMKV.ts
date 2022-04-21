@@ -1,4 +1,4 @@
-import { unstable_batchedUpdates } from 'react-native';
+import { unstable_batchedUpdates } from './reactBatchedUpdates';
 import { createMMKV } from './createMMKV';
 
 interface Listener {
